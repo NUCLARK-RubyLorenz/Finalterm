@@ -1,1 +1,0 @@
-typeSearchIndex = [{"p":"com.mycompany.activityforloop","l":"ActivityForloop"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"}];updateSearchResults();
